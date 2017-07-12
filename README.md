@@ -1,8 +1,7 @@
 # UIAlertController-BetterConstructor
 
-[![Version](https://img.shields.io/cocoapods/v/UIAlertController-BetterConstructor.svg?style=flat)](http://cocoapods.org/pods/UIAlertController-BetterConstructor)
-[![License](https://img.shields.io/cocoapods/l/UIAlertController-BetterConstructor.svg?style=flat)](http://cocoapods.org/pods/UIAlertController-BetterConstructor)
-[![Platform](https://img.shields.io/cocoapods/p/UIAlertController-BetterConstructor.svg?style=flat)](http://cocoapods.org/pods/UIAlertController-BetterConstructor)
+
+Note: Removed support for CocoaPods and added support for Carthage
 
 ## TL;DR
 Turn this:
