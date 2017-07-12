@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "469494DB1F16C14400F7DDD0"
-               BuildableName = "UIAlertControllerBetterConstructor.framework"
-               BlueprintName = "UIAlertControllerBetterConstructor"
-               ReferencedContainer = "container:UIAlertControllerBetterConstructor.xcodeproj">
+               BlueprintIdentifier = "46A1AB5D1F16C2F800DD0200"
+               BuildableName = "UIAlertController_BetterConstructor.framework"
+               BlueprintName = "UIAlertController_BetterConstructor"
+               ReferencedContainer = "container:UIAlertController_BetterConstructor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "469494DB1F16C14400F7DDD0"
-            BuildableName = "UIAlertControllerBetterConstructor.framework"
-            BlueprintName = "UIAlertControllerBetterConstructor"
-            ReferencedContainer = "container:UIAlertControllerBetterConstructor.xcodeproj">
+            BlueprintIdentifier = "46A1AB5D1F16C2F800DD0200"
+            BuildableName = "UIAlertController_BetterConstructor.framework"
+            BlueprintName = "UIAlertController_BetterConstructor"
+            ReferencedContainer = "container:UIAlertController_BetterConstructor.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "469494DB1F16C14400F7DDD0"
-            BuildableName = "UIAlertControllerBetterConstructor.framework"
-            BlueprintName = "UIAlertControllerBetterConstructor"
-            ReferencedContainer = "container:UIAlertControllerBetterConstructor.xcodeproj">
+            BlueprintIdentifier = "46A1AB5D1F16C2F800DD0200"
+            BuildableName = "UIAlertController_BetterConstructor.framework"
+            BlueprintName = "UIAlertController_BetterConstructor"
+            ReferencedContainer = "container:UIAlertController_BetterConstructor.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
